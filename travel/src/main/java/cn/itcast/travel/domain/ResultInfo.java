@@ -54,7 +54,7 @@ public class ResultInfo implements Serializable {
         this.data = data;
     }
 
-    public String getErrorMsg() {
+    public String getErrorMsg(String 注册失败) {
         return errorMsg;
     }
 

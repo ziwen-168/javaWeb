@@ -9,8 +9,5 @@
         <module name="travel" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="travel" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
